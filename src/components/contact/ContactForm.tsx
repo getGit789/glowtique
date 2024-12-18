@@ -40,7 +40,7 @@ export function ContactForm() {
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-20">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
+            <h2 className="inline-block text-3xl md:text-4xl font-bold text-gray-900 mb-6 whitespace-nowrap overflow-hidden animate-typing">
               {t.contact.title}
             </h2>
             <p className="text-xl text-gray-600 mx-auto max-w-[600px] mb-8">

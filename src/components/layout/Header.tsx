@@ -45,7 +45,7 @@ export function Header() {
       <div className="container mx-auto px-6 md:px-4 flex items-center justify-between h-full">
         <Link href="#home" onClick={() => scrollToSection('home')} className="flex items-center">
           <img 
-            src="/Glowtique400x100.png" 
+            src="Glowtique400x100.png" 
             alt="Glowtique" 
             className={`w-auto transition-all duration-300 ${
               isScrolled 

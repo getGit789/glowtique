@@ -33,7 +33,7 @@ export function Hero() {
           </p>
           <button 
             onClick={openBookingModal}
-            className="bg-purple-600 text-white px-8 py-3 rounded-full text-lg hover:bg-purple-700 transition-colors shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-all duration-200"
+            className="relative bg-purple-600 text-white px-8 py-3 rounded-full text-lg hover:bg-purple-700 transition-all duration-200 animate-pulse hover:animate-none"
           >
             {t.hero.cta}
           </button>

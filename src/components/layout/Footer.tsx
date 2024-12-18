@@ -14,7 +14,7 @@ export function Footer() {
           <div className="flex-1 min-w-[250px] max-w-sm">
             <h3 className="text-lg font-semibold text-white mb-3">Glowtique</h3>
             <p className="text-sm text-gray-400 mb-4">
-              Premium solarijum i collarium usluge za vašu lepotu i zdravlje.
+              Premium Solarijum, Collarium i Body-Slim usluge za vašu lepotu i zdravlje.
             </p>
             <div className="flex space-x-4">
               <SocialLink
